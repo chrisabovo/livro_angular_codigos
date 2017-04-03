@@ -1,1 +1,3 @@
-# livro_angular_codigos
+# Código fonte do livro ""
+
+Livro disponível em [Livro](http://www.com.br "Livro Texto")
